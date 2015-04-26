@@ -6,4 +6,4 @@ two files for shiny
 * server.R
 
 
-you can test the app via (https://haidonggu.shinyapps.io/Project/)[https://haidonggu.shinyapps.io/Project/]
+you can test the app via [https://haidonggu.shinyapps.io/Project/]
